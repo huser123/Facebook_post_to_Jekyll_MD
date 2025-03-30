@@ -2,6 +2,9 @@
 import requests
 import json
 
+# Itt tudsz tokent kérni:
+# https://developers.facebook.com/tools/explorer/
+
 # Írd be a felhasználói tokent
 user_token = "EAATyHi6i9p8BO8y3K0krZBr6skzvIwHt1r7Gp0iPh387sNYVWHdq27YHYYE5VWBKdjbMBt6397BHo2hwnTOTyO1qyOZC6hxLTbSZB1bKClF8uTMtOchJAfiZATizdJ6Ylvx5J3sUj7ZCKGFj88GDlOtuD1AvRGHPj9Rt8ZASD7bGIoZBMZAZBsiJW2g3eAOEJyO0TtYP7e9WgZDZD"
 
